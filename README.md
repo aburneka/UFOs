@@ -19,3 +19,6 @@ Describe to Dana how someone might use the new webpage by walking her through th
 
 ### Summary:
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
+
+
+The filter criteria are case sensitive i.e. you cannot put in CA or california, but instead need to enter ca. This can be ery confusing for a user. THere also appears to be unknown data which I would recommend dealing with. 
