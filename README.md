@@ -1,8 +1,6 @@
 # UFOs
 ## UFO Sightings: Fact of Fancy?
 
-### Resources: 
-
 ### Overview of Project: 
 
 For this project we have been asked to create a new webpage for Dana, a data journalist who is interested in UFO sightings. For the new webpage we have created a table to organize UFO data that is stored as a JavaScript array, or list. The UFO data includes the city, state, country, duration, date  and comments of UFO sightings. 
