@@ -12,13 +12,19 @@ This table has the ability to filter data based on the criteria that is input by
 ### Results: 
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
+The webpage user is able to search the UFO data by date, city, state, country or shape. For example if someone would like to see the date for UFO sightis in the state of Califonrnia they could simply enter ca into the State field: 
+
+
 <img width="1053" alt="Filter by State " src="https://user-images.githubusercontent.com/79999761/120122152-fa45df80-c15b-11eb-9baf-6be84d048a85.png">
 
+This will return all UFO sightins within the state of California. 
+
+Another example of he webpage operationhal capabilities is the filter for shape i.e. was what you saw a triangle shaped UFO or something else? 
+
+<img width="1042" alt="Filter by Shape " src="https://user-images.githubusercontent.com/79999761/120136478-16ab4180-c187-11eb-9d1d-b8f767eb86f0.png">
 
 
 
-### Summary:
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+### Summary:In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
-
-The filter criteria are case sensitive i.e. you cannot put in CA or california, but instead need to enter ca. This can be ery confusing for a user. THere also appears to be unknown data which I would recommend dealing with. 
+While the webpage provides a basic search and filter criteria, it could use some upgrades. The filter criteria are case sensitive i.e. you cannot put in CA or california, but instead need to enter "ca". This can be ery confusing for a user. There also appears to be unknown data which I would recommend dealing with by cleaning the data. 
