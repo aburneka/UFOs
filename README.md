@@ -15,12 +15,11 @@ The webpage user is able to search the UFO data by date, city, state, country or
 
 <img width="1053" alt="Filter by State " src="https://user-images.githubusercontent.com/79999761/120122152-fa45df80-c15b-11eb-9baf-6be84d048a85.png">
 
-This will return all UFO sightins within the state of California. 
+This will return all UFO sightings within the state of California. 
 
-Another example of he webpage operationhal capabilities is the filter for shape i.e. was what you saw a triangle shaped UFO or something else? 
+Another example of he webpage operational capabilities is the filter for shape i.e. was what you saw a triangle shaped UFO or something else? 
 
 <img width="1042" alt="Filter by Shape " src="https://user-images.githubusercontent.com/79999761/120136478-16ab4180-c187-11eb-9d1d-b8f767eb86f0.png">
-
 
 
 ### Summary:In a summary statement, describe one drawback of this new design and two recommendations for further development.
