@@ -8,7 +8,6 @@ For this project we have been asked to create a new webpage for Dana, a data jou
 This table has the ability to filter data based on the criteria that is input by the user. The webpage has also been customized using Bootstrap to make it more aesthetically pleasing. 
 
 ### Results: 
-Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
 
 The webpage user is able to search the UFO data by date, city, state, country or shape. For example if someone would like to see the date for UFO sightis in the state of Califonrnia they could simply enter ca into the State field: 
 
@@ -24,4 +23,4 @@ Another example of he webpage operational capabilities is the filter for shape i
 
 ### Summary:In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
-While the webpage provides a basic search and filter criteria, it could use some upgrades. The filter criteria are case sensitive i.e. you cannot put in CA or california, but instead need to enter "ca". This can be ery confusing for a user. There also appears to be unknown data which I would recommend dealing with by cleaning the data. 
+While the webpage provides a basic search function and the ability to filter the data, it could use some upgrades. The filter criteria that a user would input is case sensitive i.e. you cannot put in CA or california, but instead need to enter "ca". This can be very confusing for a user. There also appears to be unknown data which I would recommend dealing with by cleaning the data. 
